@@ -1,0 +1,28 @@
+#homePage {
+	background-color: #BBBBDD;
+}
+
+h1 {
+	color: #444488;
+	font-family: "Source Sans Pro", sans-serif;
+}
+
+h3, p, li, a {
+	font-family: "Source Sans Pro", sans-serif;
+}
+
+#homeImage1, #homeImage2, #homeImage3 {
+   border-color: #444488;
+   border-width: 4px;
+   border-style: solid;
+   border-radius: 5%;
+}
+
+#byline {
+	background-color: #444488;
+	color: #FFFFFF;
+	font-size: 30;
+	text-align: center;
+}
+
+
